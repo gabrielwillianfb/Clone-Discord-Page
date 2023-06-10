@@ -68,7 +68,6 @@
   }
   .img {
     max-width: 80%;
-    border: 1px solid blue;
   }
   .section-alt {
     flex-direction: column;
